@@ -9,7 +9,7 @@ Controls:
 7 - Voicechat
 8 - Decoy
 9 - Nade
-0 - Toggle lefthand righthand
+0 - Fake flash
 - - 
 = - Bomb
 
